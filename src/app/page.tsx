@@ -172,7 +172,7 @@ export default function LandingPage() {
           imageSrc: "http://img.b2bpic.net/free-photo/low-angle-friends-having-good-time_23-2148395331.jpg",
         },
       ]}
-      title="The BURRAH Standard"
+      title="BURRAH Standard"
       description="Every detail designed around freshness, warmth, and unforgettable quality."
     />
   </div>
