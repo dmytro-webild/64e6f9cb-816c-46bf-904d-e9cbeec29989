@@ -11,8 +11,8 @@ import { DM_Sans } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'BURRAH | Luxury Artisan Bakery',
-  description: 'Discover BURRAH, the premium artisan bakery offering fresh sourdough, exquisite pastries, and specialty coffee in an elegant atmosphere.',
+  title: "BURRA | Bakery & Cafe",
+  description: "Discover BURRAH, the premium artisan bakery offering fresh sourdough, exquisite pastries, and specialty coffee in an elegant atmosphere.",
   openGraph: {
     "title": "BURRAH | Luxury Artisan Bakery",
     "description": "Experience artisan excellence at BURRAH, where premium baking meets warm hospitality.",
